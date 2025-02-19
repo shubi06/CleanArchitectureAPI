@@ -1,0 +1,12 @@
+/Users/shuajbbunjaku/Desktop/Semestri 5 - UBT/Paternat e Dizajnit/PaternatEDizajnitDheRefaktorimiIKodit-Projekt/CleanArchitectureApi/ApplicationCore/bin/Debug/net8.0/ApplicationCore.deps.json
+/Users/shuajbbunjaku/Desktop/Semestri 5 - UBT/Paternat e Dizajnit/PaternatEDizajnitDheRefaktorimiIKodit-Projekt/CleanArchitectureApi/ApplicationCore/bin/Debug/net8.0/ApplicationCore.dll
+/Users/shuajbbunjaku/Desktop/Semestri 5 - UBT/Paternat e Dizajnit/PaternatEDizajnitDheRefaktorimiIKodit-Projekt/CleanArchitectureApi/ApplicationCore/bin/Debug/net8.0/ApplicationCore.pdb
+/Users/shuajbbunjaku/Desktop/Semestri 5 - UBT/Paternat e Dizajnit/PaternatEDizajnitDheRefaktorimiIKodit-Projekt/CleanArchitectureApi/ApplicationCore/obj/Debug/net8.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shuajbbunjaku/Desktop/Semestri 5 - UBT/Paternat e Dizajnit/PaternatEDizajnitDheRefaktorimiIKodit-Projekt/CleanArchitectureApi/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfoInputs.cache
+/Users/shuajbbunjaku/Desktop/Semestri 5 - UBT/Paternat e Dizajnit/PaternatEDizajnitDheRefaktorimiIKodit-Projekt/CleanArchitectureApi/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfo.cs
+/Users/shuajbbunjaku/Desktop/Semestri 5 - UBT/Paternat e Dizajnit/PaternatEDizajnitDheRefaktorimiIKodit-Projekt/CleanArchitectureApi/ApplicationCore/obj/Debug/net8.0/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/shuajbbunjaku/Desktop/Semestri 5 - UBT/Paternat e Dizajnit/PaternatEDizajnitDheRefaktorimiIKodit-Projekt/CleanArchitectureApi/ApplicationCore/obj/Debug/net8.0/ApplicationCore.sourcelink.json
+/Users/shuajbbunjaku/Desktop/Semestri 5 - UBT/Paternat e Dizajnit/PaternatEDizajnitDheRefaktorimiIKodit-Projekt/CleanArchitectureApi/ApplicationCore/obj/Debug/net8.0/ApplicationCore.dll
+/Users/shuajbbunjaku/Desktop/Semestri 5 - UBT/Paternat e Dizajnit/PaternatEDizajnitDheRefaktorimiIKodit-Projekt/CleanArchitectureApi/ApplicationCore/obj/Debug/net8.0/refint/ApplicationCore.dll
+/Users/shuajbbunjaku/Desktop/Semestri 5 - UBT/Paternat e Dizajnit/PaternatEDizajnitDheRefaktorimiIKodit-Projekt/CleanArchitectureApi/ApplicationCore/obj/Debug/net8.0/ApplicationCore.pdb
+/Users/shuajbbunjaku/Desktop/Semestri 5 - UBT/Paternat e Dizajnit/PaternatEDizajnitDheRefaktorimiIKodit-Projekt/CleanArchitectureApi/ApplicationCore/obj/Debug/net8.0/ref/ApplicationCore.dll
