@@ -1,6 +1,9 @@
 Clean Architecture API
 
-Ky është një projekt .NET Web API i ndërtuar duke ndjekur Clean Architecture. Projekti përfshin implementimin e dy pattern-eve:
+Përshkrimi
+
+Ky është një projekt .NET Web API i ndërtuar duke ndjekur Clean Architecture, që siguron modularitet, testueshmëri dhe mirëmbajtje të lehtë të kodit.
+Projekti përfshin implementimin e Prototype Pattern (Creational) për klonimin e objekteve dhe Adapter Pattern (Structural) për të përshtatur formatin e të dhënave.
 
 Prototype Pattern (nga Creational Patterns) për të klonuar objektet.
 
