@@ -1,25 +1,45 @@
-Clean Architecture API
+# CleanArchitectureAPI - .NET Web API
 
-Përshkrimi
+## 📌 Description
+This is a **.NET Web API** project built following the **Clean Architecture** pattern, ensuring modularity, testability, and easy maintenance of the code. The project includes the implementation of the **Prototype Pattern** (Creational) for object cloning and the **Adapter Pattern** (Structural) for adapting data formats.
 
-Ky është një projekt .NET Web API i ndërtuar duke ndjekur Clean Architecture, që siguron modularitet, testueshmëri dhe mirëmbajtje të lehtë të kodit.
-Projekti përfshin implementimin e Prototype Pattern (Creational) për klonimin e objekteve dhe Adapter Pattern (Structural) për të përshtatur formatin e të dhënave.
+## 🛠 Technologies Used
+- ✅ **.NET 8 Web API**
+- ✅ **C# & ASP.NET Core**
+- ✅ **Clean Architecture**
+- ✅ **Entity Framework Core** (for database)
+- ✅ **Swagger UI** (for API documentation)
+- ✅ **Dependency Injection** (DI)
+- ✅ **Prototype Pattern**
+- ✅ **Adapter Pattern**
+- ✅ **Unit Tests with xUnit & Moq**
 
-Prototype Pattern (nga Creational Patterns) për të klonuar objektet.
 
-	•	Implementuar në Product.cs në ApplicationCore/Entities/.
-	•	Përdor Clone() për të klonuar objektet Product.
+## 🎯 Project Architecture
+The **Clean Architecture** separates responsibilities into layers to enhance modularity:
 
-Adapter Pattern (nga Structural Patterns) për të përshtatur të dhënat në format JSON.
+✅ **1. ApplicationCore (Domain Layer)**
+- Contains entities, interfaces, and business logic.
+- No dependency on external technologies (e.g., databases).
+- Implements the **Prototype Pattern**.
 
-	•	Implementuar në JsonAdapter.cs në Infrastructure/Adapters/.
-	•	Konverton listën e produkteve në format JSON.
+✅ **2. Infrastructure (Data Layer)**
+- Implements interfaces from the **ApplicationCore**.
+- Contains **Repository Pattern** for data access.
+- Implements **Adapter Pattern** for data format adaptation.
 
-Teknologjitë e Përdorura
+✅ **3. WebAPI (Presentation Layer)**
+- Contains **Controllers** to expose API endpoints.
+- Implements **Dependency Injection** for dependencies.
+- Configures **Swagger UI** for API documentation.
 
-    ✅ .NET 8 Web API 
-    ✅ Clean Architecture 
-    ✅ Dependency Injection 
-    ✅ Prototype Pattern 
-    ✅ Adapter Pattern 
-    ✅ Swagger UI për dokumentacionin
+## 🔄 Implementing Patterns
+
+### 🌀 **Prototype Pattern**
+- **Purpose**: Allows cloning of objects without manually creating new instances.
+- **Location**: `ApplicationCore/Entities/Product.cs`
+
+
+### 🔌 **Adapter Pattern**
+- **Purpose**: Adapts data to a different format, such as JSON.
+- **Location**:  `Infrastructure/Adapters/JsonAdapter.cs`
